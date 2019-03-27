@@ -1,0 +1,17 @@
+{
+
+  "name": "SnapNAsk",
+
+  "version": "2.9.0",
+
+  "private": true,
+
+  "dependencies": {
+
+    "bootstrap": "~3.2.0",
+
+    "jquery": "3.3.1",
+
+  }
+
+}
